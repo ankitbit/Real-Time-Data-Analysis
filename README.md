@@ -10,7 +10,8 @@
 
 
 # Self Learning Tutorials
-- [Spark Tutorial](https://data-flair.training/blogs/spark-tutorial/) by Data Flair
+1. [Data Science Case Studies](https://github.com/anindya-saha/Data-Science-with-Spark)
+2. [Spark Tutorial](https://data-flair.training/blogs/spark-tutorial/) by Data Flair
 
 
 ### Research Topics 
