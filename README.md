@@ -6,6 +6,7 @@
 1. [Large Scale Data Processing](https://heather.miller.am/teaching/cs4240/spring2018/)
 2. [EECS E6893: Big Data Analytics](https://www.ee.columbia.edu/~cylin/course/bigdata/index.html) by Columbia University
 3. [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/): Stanford University
+4. [CS5412: Topics in Cloud Computing](http://www.cs.cornell.edu/courses/cs5412/2019sp/) by Cornell University
 
 
 # Self Learning Tutorials
