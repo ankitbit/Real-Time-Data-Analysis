@@ -11,7 +11,8 @@
 
 # Self Learning Tutorials
 1. [Data Science Case Studies](https://github.com/anindya-saha/Data-Science-with-Spark)
-2. [Spark Tutorial](https://data-flair.training/blogs/spark-tutorial/) by Data Flair
+2. [Introduction to Big data](https://github.com/haifengl/bigdata/releases/download/v0.0.2/bigdata.pdf)
+3. [Spark Tutorial](https://data-flair.training/blogs/spark-tutorial/) by Data Flair
 
 
 ### Research Topics 
