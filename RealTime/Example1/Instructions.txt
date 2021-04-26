@@ -1,0 +1,43 @@
+## Real time processing. First example ##
+
+Here's the job:
+
+- We are going to get every few seconds a plain text file with some emails, that will be stored in a local folder called Users, among with other files with the same structure 
+ (Imagine they come from a server/website/whatever, you don't have to care about how this is done).
+
+- We need to send an automatic email to each of them (without spamming if the same email appears more than once)
+
+- We want to send to each of the future clients a different offer (image) attached to the email
+
+
+Questions (20-30 min individual work [Send it in the chat] - 10 min p2p discussion - X min class discussion - Joan's solution):
+
+Write down the pseudocode/step-by-step explanation of how would you make it work, and which objects/loops/functions/... would you need. (Don't use google here)
+
+How easy is to create a program that solves this need? Do we need some specific infrastructure?
+
+How automated is your solution? Does it need any intervention?
+
+
+NO PYSPARK HERE! :D
+
+--------------------------- 
+
+
+Example of submission:
+
+EXPLANATION:
+
+I will be using a list to store blablabla and a variable to blablaba
+I will define a blablabla that will check every file and blablabla
+I will connect my python file with blablabla and blablabla
+
+NEEDS:
+
+Jupyter Notebook
+A server
+Virtual machine
+Estimated time: 5 hours
+
+AUTOMATED
+Fully / I need to run the code periodically / whatever...
