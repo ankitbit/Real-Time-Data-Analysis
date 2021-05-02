@@ -1,36 +1,28 @@
-## Welcome to GitHub Pages
+# Welcome!
 
-You can use the [editor on GitHub](https://github.com/ankitbit/Real-Time-Data-Analysis/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Real-Time-Data-Analysis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Reference Courses
+1. [Large Scale Data Processing](https://heather.miller.am/teaching/cs4240/spring2018/)
+2. [EECS E6893: Big Data Analytics](https://www.ee.columbia.edu/~cylin/course/bigdata/index.html) by Columbia University
+3. [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/): Stanford University
+4. [CS5412: Topics in Cloud Computing](http://www.cs.cornell.edu/courses/cs5412/2019sp/) by Cornell University
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Self Learning Tutorials
+1. [Data Science Case Studies](https://github.com/anindya-saha/Data-Science-with-Spark)
+2. [Introduction to Big data](https://github.com/haifengl/bigdata/releases/download/v0.0.2/bigdata.pdf)
+3. [Spark Tutorial](https://data-flair.training/blogs/spark-tutorial/) by Data Flair
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ankitbit/Real-Time-Data-Analysis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Research Topics 
+1. [Programming Models for Distributed Computing](https://heather.miller.am/teaching/cs7680/)
+2. [Fundamentals of Big Data Analytics](https://www.ti.rwth-aachen.de/teaching/BigData/FBDA.pdf)
+3. [Topics in Big Data Analytics](https://raj.cse.uconn.edu/cse-5095-topics-in-big-data-analytics-spring-2014/#): University of Connecticut
+4. 
+e name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
